@@ -55,7 +55,7 @@
             this.$store.state.user = item; // 存储当前登录的用户信息
             this.$router.push('/cart');
           }else{
-            alert('账号/密码不正确，请重新输入');
+            console.log('账号/密码不正确，请重新输入');
           }
         });
       },
