@@ -12,11 +12,11 @@
 
 # 购物车内容：
 ![image](https://github.com/enaat/faster-order/blob/master/src/assets/carts.png)
+
 #对应的总价，可选择相应的折扣优惠（以及未满一定价格时，会有邮费）
 
 # 对应登录用户收货地址的相关编辑(包括修改，删除，添加)-》一个用户可添加多个收货地址：
 ![image](https://github.com/enaat/faster-order/blob/master/src/assets/addAddress.png)
-
 #state中定义了一个user，用来存储当前登录的用户信息（isLogin(默认为false,未登录) 可根据其判断页面的跳转以及展示对应的地址等）
 
 
