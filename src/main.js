@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router/index'
-// import axios from 'axios'
 import store from './store/store'
+// import axios from 'axios'
 
 Vue.config.productionTip = false;
 // Vue.prototype.$axios = axios;
